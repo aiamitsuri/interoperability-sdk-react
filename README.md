@@ -18,6 +18,7 @@ Usage
     
     // Data fetcher for Web (WASM)
     export async function fetchDataFromWasm(pageNumber: number): Promise<any> {
+        
         // 1. Ensure WASM is loaded (singleton logic)
         await ensureWasmInitialized();
     
