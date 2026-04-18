@@ -42,7 +42,9 @@ Usage
         }
     }
 
-Screenshot
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/dabb2eca-f135-466a-bbd3-a06a09ef07ef" />
+Screenshot (Page 1)
+<img width="1920" height="1080" alt="react1" src="https://github.com/user-attachments/assets/f8235a4d-f2ff-4920-a2b2-38cf02408533" />
+Screenshot (Page 4)
+<img width="1920" height="1080" alt="react2" src="https://github.com/user-attachments/assets/0fba8caa-a2fc-4fcc-a7e6-0c0b3464a291" />
 
 **@AIAmitSuri, Co-creator/Co-founder (🙏 Mata Shabri 🙏)**
