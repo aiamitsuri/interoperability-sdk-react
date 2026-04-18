@@ -16,7 +16,7 @@ Usage
         ids: string | null;
     }
     
-     // Clean data fetcher for Web (WASM)
+    // Data fetcher for Web (WASM)
     export async function fetchDataFromWasm(pageNumber: number): Promise<any> {
         // 1. Ensure WASM is loaded (singleton logic)
         await ensureWasmInitialized();
