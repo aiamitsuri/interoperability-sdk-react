@@ -43,7 +43,8 @@ Usage
     }
 
 Screenshot (Page 1)
-<img width="1920" height="1080" alt="react1" src="https://github.com/user-attachments/assets/f8235a4d-f2ff-4920-a2b2-38cf02408533" />
+<img width="1920" height="1080" alt="react1" src="https://github.com/user-attachments/assets/7e7b9871-a403-4246-a0af-ab1da9cbc285" />
+
 Screenshot (Page 4)
 <img width="1920" height="1080" alt="react2" src="https://github.com/user-attachments/assets/0fba8caa-a2fc-4fcc-a7e6-0c0b3464a291" />
 
