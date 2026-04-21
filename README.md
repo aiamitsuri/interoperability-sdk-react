@@ -1,4 +1,4 @@
-# BHILANI Interoperability by kantini, chanchali
+# BHILANI Interop SDK Suite by kantini, chanchali
 
 Run SDK
 
@@ -48,4 +48,4 @@ Screenshot (Page 1)
 Screenshot (Page 4)
 <img width="1920" height="1080" alt="react2" src="https://github.com/user-attachments/assets/0fba8caa-a2fc-4fcc-a7e6-0c0b3464a291" />
 
-**@AIAmitSuri, Co-creator/Co-founder (🙏 Mata Shabri 🙏)**
+**🙏 Mata Shabri 🙏**
